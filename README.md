@@ -44,6 +44,11 @@
 ## Languages
 ### My language skills at the moment:
 
+-   Ukrainian - C2
+-   English - C1
+-   Spanish - A2
 
 <img align="left" alt="status" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORomanchuk&layout=compact" />
 
+
+### If you're looking for a talented and motivated Front End developer, please feel free to contact me! I'm always open to new challenges and ready to grow in the chosen field.
