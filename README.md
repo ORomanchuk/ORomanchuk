@@ -1,6 +1,6 @@
 # Hi, I'm Oleksandr! 👋
 
-### I'm a beginner Front End developer from Ukraine and a student at CyberBionic Systematics educational center. 
+### I'm a beginner Front End developer from Ukraine. 
 
 ## My skills and tools that I work with include:
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
